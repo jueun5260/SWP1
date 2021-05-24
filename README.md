@@ -1,3 +1,3 @@
 20195260 - Jueun Choi
 
-Kookmin Univ. SW
+Kookmin Univ. School of Computer Science
