@@ -1,3 +1,3 @@
-20195260	Jueun Choi
+20195260 - Jueun Choi
 
 Kookmin Univ. SW
